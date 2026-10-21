@@ -10,7 +10,7 @@ Right now I'm into real-time tracking, model reliability in messy real-world con
 
 💬 Always happy to talk shop, trade code reviews, or hear about something cool you're building.
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,java,react,pytorch,opencv,git,linux&perline=10" height="36" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,java,pytorch,tensorflow,opencv,sklearn,fastapi,react,git,linux&perline=10" height="36" alt="skills"/>
 
 <br clear="right"/>
 
